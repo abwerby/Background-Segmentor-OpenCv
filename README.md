@@ -14,6 +14,9 @@ the algorithm simply model the background by taking the moving average of pixels
 	5- Accumulate background with equ: background = (1 - alpha) * background + alpha * frame  
 
 ## Results image
-![alt text]()
-![alt text]()  
-![alt text]()
+![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(59).png)
+![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(60).png)  
+![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(61).png)
+![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(62).png)
+![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(63).png)
+
