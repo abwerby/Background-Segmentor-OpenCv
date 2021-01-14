@@ -3,7 +3,7 @@ Motion detection based on moving average background subtraction method implement
 
 ## Overview
 This is BackGround-ForeGround-Segmentor based on moving average background subtraction method implemented in C++ with OpenCV library,
-the algorithm simply model the background by taking the moving average of pixels, 
+the algorithm simply model the background by taking the moving average of pixels.   
 	mask = (1 - alpha) * background + alpha * frame
 
 #### Algorithm Steps:
@@ -19,4 +19,6 @@ the algorithm simply model the background by taking the moving average of pixels
 ![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(61).png)
 ![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(62).png)
 ![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(63).png)
+![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(64).png)
+
 
