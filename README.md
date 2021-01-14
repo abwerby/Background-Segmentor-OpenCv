@@ -19,6 +19,5 @@ the algorithm simply model the background by taking the moving average of pixels
 ![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(61).png)
 ![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(62).png)
 ![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(63).png)
-![alt text](https://github.com/abwerby/Background-Segmentor-OpenCv/blob/main/Screenshot%20(64).png)
 
 
